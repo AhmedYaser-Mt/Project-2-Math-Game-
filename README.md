@@ -18,10 +18,3 @@ This project is part of the Programming Advices training track with Dr. Mohamed 
 - `<ctime>` (for seeding the random function)
 
 ---
-
-## 🚀 Getting Started
-
-### 📥 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AhmedYaser-Mt/Math-Game.git
